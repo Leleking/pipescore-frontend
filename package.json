@@ -24,7 +24,7 @@
     "express": "^4.16.4",
     "moment": "^2.24.0",
     "tus-js-client": "^1.8.0",
-    "uppy": "^1.10.1",
+    "uppy": "^2.3.3",
     "vee-validate": "^2.2.13",
     "vue": "^2.6.10",
     "vue-apexcharts": "^1.5.0",
