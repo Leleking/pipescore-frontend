@@ -22,7 +22,7 @@
     "core-js": "^2.6.5",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "tus-js-client": "^1.8.0",
     "uppy": "^1.10.1",
     "vee-validate": "^2.2.13",
